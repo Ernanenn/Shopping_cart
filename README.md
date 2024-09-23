@@ -5,9 +5,7 @@ This project simulates a simple online shopping cart, where the user can add pro
 
 ## Features
 Adding products: The user selects a product from the list and the desired quantity.
-
 Calculating the total amount: The total purchase amount is automatically calculated and displayed on the screen.
-
 Clearing the cart: The user can clear the cart at any time.
 
 ## Technologies Used
